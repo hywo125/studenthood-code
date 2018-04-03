@@ -1,0 +1,55 @@
+# depslib dependency file v1.0
+1497810371 source:e:\c\c2(code blocks)\market\makers\main.c
+	<stdio.h>
+	<io.h>
+	<stdlib.h>
+	<windows.h>
+	"game.h"
+	"gamelib.h"
+
+1497851449 source:e:\c\c2(code blocks)\market\makers\game.c
+	<conio.h>
+	<time.h>
+	<io.h>
+	"gamelib.h"
+	"game.h"
+
+1497808732 e:\c\c2(code blocks)\market\makers\game.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1497683473 source:e:\c\c2(code blocks)\market\makers\gamelib.c
+	"gamelib.h"
+
+1497593359 e:\c\c2(code blocks)\market\makers\gamelib.h
+	<stdio.h>
+	<windows.h>
+
+1497856634 source:f:\uел©у╪Д\makers\game.c
+	<conio.h>
+	<time.h>
+	<io.h>
+	"gamelib.h"
+	"game.h"
+
+1497593360 f:\uел©у╪Д\makers\gamelib.h
+	<stdio.h>
+	<windows.h>
+
+1497808734 f:\uел©у╪Д\makers\game.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1497683474 source:f:\uел©у╪Д\makers\gamelib.c
+	"gamelib.h"
+
+1497810372 source:f:\uел©у╪Д\makers\main.c
+	<stdio.h>
+	<io.h>
+	<stdlib.h>
+	<windows.h>
+	"game.h"
+	"gamelib.h"
+

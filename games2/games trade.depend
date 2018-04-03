@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1494777475 source:e:\c\c2(code blocks)\游戏\games2\games trade\game.c
+	"game.h"
+
+1494776475 e:\c\c2(code blocks)\游戏\games2\games trade\game.h
+	<stdio.h>
+	<string.h>
+	<time.h>
+	<stdlib.h>
+	<windows.h>
+
+1494777365 source:e:\c\c2(code blocks)\游戏\games2\games trade\main.c
+	"game.h"
+	"gamelib.h"
+	<conio.h>
+
+1493566750 source:e:\c\c2(code blocks)\游戏\games2\games trade\gamelib.c
+	"gamelib.h"
+
+1493566062 e:\c\c2(code blocks)\游戏\games2\games trade\gamelib.h
+	<stdio.h>
+	<windows.h>
+
